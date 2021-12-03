@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+      authentication-database: admin
+      username: guest
+      password: guest
+      database: mongodemo
+      port: 27017
+      host: localhost
